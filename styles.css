@@ -187,3 +187,7 @@ select:focus-visible {
     gap: 0.75rem;
   }
 }
+#prices li {
+    color: #0b6e4f;
+    font-weight: 700;
+}
